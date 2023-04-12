@@ -11,5 +11,5 @@ Machine Learning
 ![image](https://user-images.githubusercontent.com/54119762/231372291-2249ccee-505d-4aea-904c-55522626440d.png)
 
 
-## Difference between Machine Learn and Deep Learning
+### Difference between Machine Learn and Deep Learning
 ![image](https://user-images.githubusercontent.com/54119762/231372499-b941062f-51ef-49fd-a516-3fd5918a78ad.png)
