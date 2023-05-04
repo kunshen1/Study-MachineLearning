@@ -39,4 +39,7 @@ $J \left( \theta_0, \theta_1 \right) = \frac{1}{2m}\sum\limits_{i=1}^m \left( h_
 
 ### 最小二乘法
 求解让损失函数（SSE）最小化的参数向量 $\omega$，这种通过最小化真实值和预测值之间的SSE来求解参数的方法就叫做最小二乘法。
+![](./Picture/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95.png)
+
+
 
